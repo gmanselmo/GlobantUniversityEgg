@@ -1,0 +1,31 @@
+6.
+a) En orden: sentencia_a1, sentencia_a2, sentencia_a3 y sentencia_a4 tras la excepcion sentencia_a6 y fuera de la excepcion sentencia_a5.
+b) En orden: sentencia_a1, sentencia_a2, sentencia_a3, sentencia_a4 y fuera de la excepcion sentencia_a5.
+
+7.
+a) En orden: sentencia_b1, sentencia_b2, sentencia_b3 y sentencia_b4.
+b) sentencia_b1, sentencia_b2 y sentencia_b4.
+
+8.
+class Uno:
+Valor final del try:43
+Valor final del finally:44
+Valor antes del return: 45
+45
+
+class Dos:
+Valor final del catch: 43
+Valor final del finally: 44
+Valor antes del return: 45
+45
+
+class Tres:
+Valor final del finally:2
+Muestra el error de la falla del metodo: For input string: "W".
+
+9.
+a) En orden: sentencia_c1, sentencia_c2, sentencia_c3, sentencia_c4, y sentencia_c6.
+b) En orden: sentencia_c1, sentencia_c2, sentencia_c3 y sentencia_c6.
+c) En orden: sentencia_c1, sentencia_c2, sentencia_c3, sentencia_c5 y sentencia_c6.
+
+
